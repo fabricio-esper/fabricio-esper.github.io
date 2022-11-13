@@ -12,4 +12,8 @@ Algumas tecnologias que estou estudando:
 
 Projeto so_long feito na 42 Rio:
 
-[![Projeto so_long feito na 42 Rio](./assets/so_long.png)](https://github.com/fabricio-esper/42-so_long)
+[![Imagem do projeto so_long feito na 42 Rio](./assets/so_long.png)](https://github.com/fabricio-esper/42-so_long)
+
+### Meu perfil no GitHub
+[![fabricio-esper](./asssets/profile.jpg)](https://github.com/fabricio-esper)
+
