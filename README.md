@@ -7,3 +7,7 @@ Algumas tecnologias que estou estudando:
 - Linux
 - Git
 - Shell Script
+
+## Projeto
+
+![Projeto so_long realizado na 42 Rio](./assets/so_long.png)
