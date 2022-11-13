@@ -8,6 +8,8 @@ Algumas tecnologias que estou estudando:
 - Git
 - Shell Script
 
-## Projeto
+## so_long
 
-![Projeto so_long realizado na 42 Rio](./assets/so_long.png)
+Projeto so_long feito na 42 Rio:
+
+[![Projeto so_long feito na 42 Rio](./assets/so_long.png)](https://github.com/fabricio-esper/42-so_long)
