@@ -12,4 +12,4 @@ Algumas tecnologias que estou estudando:
 
 Projeto so_long feito na 42 Rio:
 
-[![Imagem do projeto so_long feito na 42 Rio](./assets/so_long.png)](https://github.com/fabricio-esper/42-so_long)
+[![Imagem do projeto so_long feito na 42 Rio](./assets/so_long.png)](https://github.com/fesper-s/42-so_long)
